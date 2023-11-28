@@ -14,3 +14,5 @@ Connect to GitHub to check
 `git log` shows history of commits
 
 `git init` make a folder a repo
+
+`git pull` get changes from GitHub to your local
