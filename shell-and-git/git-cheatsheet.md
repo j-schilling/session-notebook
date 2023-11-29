@@ -16,3 +16,7 @@ Connect to GitHub to check
 `git init` make a folder a repo
 
 `git pull` get changes from GitHub to your local
+
+`git switch -c "feature/create.html"` creates a branch and names it and switches to it
+
+`git switch main`
